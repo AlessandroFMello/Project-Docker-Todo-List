@@ -4,7 +4,7 @@ EXPOSE 3000
 
 WORKDIR /todo-app/tests
 
-ADD node_modules.tar.gz .
+ADD node_modules.tar.gz ./tests
 
 COPY . .
 
