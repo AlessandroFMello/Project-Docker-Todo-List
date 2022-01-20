@@ -4,7 +4,7 @@
   "description": "Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.",
   "main": "index.js",
   "scripts": {
-    "test": "jest --runInBand --detectOpenHandles --forceExit --verbose"
+    "test": "jest --runInBand --detectOpenHandles --forceExit --verbose --watch"
   },
   "repository": {
     "type": "git",
